@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shrey+Chaudhary!;Java+Programmer;Web+Developer;Gate+2023+Qualified+😊+🎓;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayushi+Jain!;Java+Programmer;Web+Developer+😊+🎓;"/>
 </h1>
 
 <h3 align="center">A passionate undergrad student from India!</h3>
@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **GSAP,JDBC,SPRING BOOT**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://shreychaudhary-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ayushijain19-portfolio.netlify.app/)
 
-- 💬 Ask me about **Java, Data Structure & Algorithm,Operating System,DBMS,Networking**
+- 💬 Ask me about **Java, Data Structure & Algorithm,Operating System,DBMS,MERN**
 
-- 📫 How to reach me **shreychaudhary9789@gmail.com**
+- 📫 How to reach me **ayushij763@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mpqB7O--9O9HoN9WaGSFdhPweZcCN-V1/view?usp=sharing)
+- 📄 Know about my experiences [Resume]()
 
 - ⚡ Fun fact  **I Code in Dark Mode 🌚 But in Daylight** 🌞 😄
 <h1>Connect With Me:</h1>
